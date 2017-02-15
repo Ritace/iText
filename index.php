@@ -33,7 +33,7 @@
 				</p>
 			</div>
 			<div class = "col-md-4 video">
-				<iframe width="250" height="210" src="https://www.youtube.com/embed/-4sggVvv3rA">
+				<iframe class = "border_none" width="250" height="210" src="https://www.youtube.com/embed/-4sggVvv3rA">
 				</iframe>
 			</div>
 		</div>	
@@ -49,7 +49,7 @@
 				</p>
 			</div>
 			<div class = "col-md-4 video_next">
-				<iframe width="250" height="210" src="https://www.youtube.com/embed/pDMIRNr-mls">
+				<iframe class = "border_none" width="250" height="210" src="https://www.youtube.com/embed/pDMIRNr-mls">
 				</iframe>
 				
 			</div>

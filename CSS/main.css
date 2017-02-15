@@ -435,7 +435,7 @@ ol, ul {
     background: url(../images/pages/pdfCalligraphRGB1.png) no-repeat;
     background-size: auto;
     width: 230px;
-    height: 255px;
+    height: 275px;
 }
 .row .col-md-5 .calligraphimg1{
     margin-top: 15px;
@@ -479,4 +479,7 @@ ol, ul {
     background: url(../images/pages/blue_icon_after.png) no-repeat;
     background-size: auto;
     
+}
+.border_none{
+    border: none;
 }

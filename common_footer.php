@@ -1,9 +1,7 @@
 <div class = "content_inner">
-	<div class = 'topic more_top_space blue_topic'>
-		さらに詳しく
-	</div>
+	
 		
-	<div class = 'row'>
+	<div class = 'row more_top_space'>
 		<div class = "col-md-4">
 			<div class = "grey ">
 				<div class = "topic">
