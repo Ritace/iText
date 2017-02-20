@@ -1,11 +1,11 @@
-<?php include 'main.php';?>
+<?php include 'main1.php';?>
 <?php include('../../../common/include/header.php');?>
 
 <div class = "content">
 		<?php include 'submenu.php';?>
 	<div class = "content_inner orange">
 		<div class = "row">
-			<div class = "next_text next_text_position font_white col-md-7">
+			<div class = "next_text next_text_position font_white col-md-8">
 				<h1>世界が選んだPDFエンジン</h1>
 				<p>	
 				
@@ -13,7 +13,7 @@
 
 				</p>
 			</div>
-			<div class = "col-md-5" style= 'margin-bottom: 10px;'>
+			<div class = "col-md-4" style= 'margin-bottom: 10px;'>
 				<div class = "engine2">
 				</div>
 			</div>

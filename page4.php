@@ -1,4 +1,4 @@
-<?php include 'main.php';?>
+<?php include 'main2.php';?>
 <?php include('../../../common/include/header.php');?>
 <?php include 'submenu.php'; ?>
 <div class = "content_inner orange">
