@@ -11,7 +11,7 @@
 					
 				</div>
 				<div class = "description">
-					iText 7の製品、機能、アドオンをご覧<br/>ください。
+					<p>iText 7の製品、機能、アドオンをご覧ください。</p>
 				</div>
 			</div>
 		</div>
@@ -24,7 +24,7 @@
 					
 				</div>
 				<div class = "description">
-					ユニット単位、OEM単位、ボリューム単位、またはAGPLベースなど、ニーズに合ったライセンスをご確認ください。
+					<p>ユニット単位、OEM単位、ボリューム単位、またはAGPLベースなど、ニーズに合ったライセンスをご確認ください< </p>
 				</div>
 			</div>
 		</div>
@@ -36,8 +36,8 @@
 				<div class = "pdfversiontext">
 					
 				</div>
-				<div class = "description">
-					まだiText 5またはiText 2をご使用ですか? アップグレードの詳細をご確認、ご検討<br/>ください。
+				<div class = "description" >
+					<p>まだiText 5またはiText 2をご使用ですか? アップグレードの詳細をご確認、ご検討ください</p>
 				</div>
 			</div>
 		</div>

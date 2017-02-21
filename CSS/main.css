@@ -146,24 +146,24 @@ ol, ul {
 	padding-left : 50px;
 	padding-top : 30px;	
 	padding-bottom : 30px;	
-	
-
+	text-align: justify;
 }
 
 .content_inner .text h1{
-	font-size: 24px;
+	font-size: 22px;
 }
 .content_inner .text p {
 	padding-top: 30px;
-    line-height: 19px;
+    line-height: 25px;
     font-size: 14px;
+
 }
 .video{
-	margin-top: 50px;
+	margin-top: 62px;
  
  }
  .video_next{
-	margin-top: 40px;
+	margin-top: 47px;
  
  }
  .title{
@@ -246,18 +246,22 @@ ol, ul {
     padding-left : 50px;
     padding-top : 10px; 
     padding-bottom : 30px;  
-    
+     
 
 }
 
 .content_inner .next_text h1{
-    font-size: 24px;
+    font-size: 22px;
+    font-weight : 500;
 }
 .content_inner .next_text p {
     padding-top: 15px;
     line-height: 25px;
     font-size: 14px;
-
+    font-weight: 500;
+    text-rendering: optimizeLegibility;
+    text-align: justify;
+    text-justify: inter-word;
 }
 .margin_bottom_20{
     margin-bottom: 20px;
@@ -303,8 +307,10 @@ ol, ul {
 .row .col-md-6 .grey .description{
     text-align: center;
     padding-top: 5px;
-    padding-left : 15px;
     font-size : 12px;
+}
+.justify{
+    text-align: justify;
 }
 .row .col-md-6 .grey div {
    text-align: center;   
@@ -345,6 +351,11 @@ ol, ul {
    padding-left : 10px;
    padding-right : 10px;
 }
+.row .col-md-4 .grey .description p{
+    text-align: justify;
+    text-justify: inter-word;
+
+}
 .row .col-md-4 .grey .topic{
    padding-top: 20px;
 }
@@ -368,7 +379,8 @@ ol, ul {
     background: url(../images/pages/pdfSweepRGB.jpg) no-repeat;
     background-size: auto;
     width: 237px;
-    height: 300px
+    height: 300px;
+    margin-bottom: 20px !important;
 }
 .row .col-md-5 .pdf{
     margin-top: 15px;
@@ -383,7 +395,7 @@ ol, ul {
     padding-bottom : 0px !important;
 }
 .small_header div h1{
-    font-size: 18px !important;
+    /*font-size: 18px !important;*/
     margin-top :15px;
 }
 .small_header div p{
@@ -456,17 +468,8 @@ ol, ul {
 .content_inner .last_one p{
     /*line-height: 10px;*/
 }
-#pagetop {
-    background: url(../images/pages/page_top_link.png) no-repeat;
-    padding-left: 25px;
-    display: inline-block;
-    line-height: 1.0;
-    float: right;
-    margin-top: 40px;
-    margin-bottom: 20px;
-    display: block;
-    z-index: 1000;
-    
+#pagetop{
+   height: 16px;
 }
 .blue_button{
     background: url(../images/pages/blue_icon_before.png) no-repeat;

@@ -5,8 +5,8 @@
 <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
 <!--[if lt IE 8]><script src="https://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE8.js"></script><![endif]-->
 <!--[if lt IE 9]><script type="text/javascript" src="/common/js/html5shiv.js"></script><![endif]-->
-<meta name="Keywords" content="itext,itext7,itext ダウンロード,pdf,pdf エンジン,pdf インボイス,pdf アドオン,pdf 結合,pdf 拡張,pdf 抽出,pdf分割,pades,pdf 署名,agpl,pdf プラットフォーム,pdf 特殊文字" />
-<meta name="Description" content="itext7は、どんなpdfでもインタラクティブに操作することができます。" />
+<meta name="Keywords" content="itext,itext7,pdf 請求書,itext アップグレード,pdf,pdf 最適化,pdf invoice,pdf 安全,itext ライセンス,pdf ライブラリ,pades,pdf 明細書,agpl,pdf プラットフォーム,pdf 変換" />
+<meta name="Description" content="安全性・信頼性の高いitextを使用し、業務を最適化することができます。" />
 <!-- <link rel="stylesheet" type="text/css" href="./CSS/header.css" /> -->
 <!-- <link rel="stylesheet" type="text/css" href="./CSS/footer.css" /> -->
 

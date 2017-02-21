@@ -5,8 +5,8 @@
 <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
 <!--[if lt IE 8]><script src="https://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE8.js"></script><![endif]-->
 <!--[if lt IE 9]><script type="text/javascript" src="/common/js/html5shiv.js"></script><![endif]-->
-<meta name="Keywords" content="itext,itext7,itext ダウンロード,pdf,pdf エンジン,pdf インボイス,pdf アドオン,pdf 結合,pdf 拡張,pdf 抽出,pdf分割,pades,pdf 署名,agpl,pdf プラットフォーム,pdf 特殊文字" />
-<meta name="Description" content="itext7は、どんなpdfでもインタラクティブに操作することができます。" />
+<meta name="Keywords" content="itext,itext7,pdf プログラム,pdf デバッグ,pdf,pdf 修正,pdf バグ,pdf ソース,itext メタデータ,pdf 編集,itext 開発,pdf debug,agpl,pdf プラットフォーム,pdf 文書" />
+<meta name="Description" content="itext pdfdebugアドオンを使用し、バグを素早く発見・修正することができます。" />
 <!-- <link rel="stylesheet" type="text/css" href="./CSS/header.css" /> -->
 <!-- <link rel="stylesheet" type="text/css" href="./CSS/footer.css" /> -->
 

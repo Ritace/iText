@@ -68,7 +68,7 @@
 				</div>
 				<div class = "ic copy-icon">
 				</div>
-				<div>
+				<div class = "justify">
 					当社のソリューションは、お使いのソフトウェアに直接統合できるので、データベース、アプリケーション、プロセスのPDFへの変換を自動化できます。
 				</div>
 			</div>
@@ -78,7 +78,7 @@
 				</div>
 				<div class = "ic download-icon">
 				</div>
-				<div>
+				<div class = "justify">
 					ｅコマース、会計、CRM、ECM、ERPなどのシステムをカスタマイズすることで、費用と時間を削減します
 				</div> 
 			</div>
@@ -88,7 +88,7 @@
 				</div>
 				<div class = "ic badge-icon">
 				</div>
-				<div>
+				<div class = "justify">
 					データベース、Webサイトのフォーム、コード、PDFから規格に準拠したPDFを自動的に作成します。
 				</div>
 			</div>

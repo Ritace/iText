@@ -1,4 +1,4 @@
-<?php include 'main1.php';?>
+<?php include 'main2.php';?>
 <?php include('../../../common/include/header.php');?>
 
 <div class = "content">
@@ -100,7 +100,7 @@
 						pdfCalligraph
 					</div>
 					<div class = "description">
-						特殊文字や非ラテン文字（アラビア語やデーヴァナーガリーなど）の正しい合字、カリグラフィー、タイプセットを使用できます。詳細を読む »
+						特殊文字や非ラテン文字（アラビア語やデーヴァナーガリーなど）の正しい合字、カリグラフィー、タイプセットを使用できます。
 
 					</div>
 					<div>
