@@ -351,11 +351,7 @@ ol, ul {
    padding-left : 10px;
    padding-right : 10px;
 }
-.row .col-md-4 .grey .description p{
-    text-align: justify;
-    text-justify: inter-word;
 
-}
 .row .col-md-4 .grey .topic{
    padding-top: 20px;
 }

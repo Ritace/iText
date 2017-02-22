@@ -1,5 +1,5 @@
 <?php include 'main.php';?>
-<?php include('../../../common/include/header.php');?>
+<?php include('../../common/include/header.php');?>
 
 <div id="pageheader">
 			<div class="pageheader_section">
@@ -101,7 +101,7 @@
 	</div>
 </div>
 
-	<?php include '../../../common/include/footer.php';?>
+	<?php include '../../common/include/footer.php';?>
 	<script src="./js/top.js"></script>
 
 </div>

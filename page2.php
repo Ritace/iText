@@ -1,5 +1,5 @@
 <?php include 'main2.php';?>
-<?php include('../../../common/include/header.php');?>
+<?php include('../../common/include/header.php');?>
 
 <div class = "content">
 		<?php include 'submenu.php';?>
@@ -113,7 +113,7 @@
 
 </div>
 </div>
-<?php include '../../../common/include/footer.php';?>
+<?php include '../../common/include/footer.php';?>
 <script src="./js/top.js"></script>
 </div>
 </div>

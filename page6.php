@@ -1,5 +1,5 @@
 <?php include 'main6.php';?>
-<?php include('../../../common/include/header.php');?>
+<?php include('../../common/include/header.php');?>
 <?php include 'submenu.php'; ?>
 <div class = "content_inner orange">
 		<div class = "row">
@@ -52,7 +52,7 @@
 
 	</div>
 <?php include 'common_footer.php';?>
-<?php include '../../../common/include/footer.php';?>
+<?php include '../../common/include/footer.php';?>
 <script src="./js/top.js"></script>
 
 </div>
